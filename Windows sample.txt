@@ -5,3 +5,4 @@ Search time: 8.4092 seconds
 Search time: 6.8933 seconds
 Search time: 6.8137 seconds
 Search time: 53.8679 seconds
+Search time: 47.4323 seconds
