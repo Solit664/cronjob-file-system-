@@ -1,3 +1,4 @@
 
 Search time: 62.0242 seconds
 Search time: 48.1830 seconds
+Search time: 6.6452 seconds
